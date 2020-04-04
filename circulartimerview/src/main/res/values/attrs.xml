@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <declare-styleable name="CircularTimerView">
+        <attr name="progressColor" format="color"/>
+        <attr name="backgroundColor" format="color"/>
+        <attr name="progressBackgroundColor" format="color"/>
+        <attr name="strokeWidthDimension" format="dimension"/>
+        <attr name="backgroundWidth" format="float"/>
+        <attr name="roundedCorners" format="boolean"/>
+        <attr name="maxValue" format="float"/>
+        <attr name="progressTextColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="progressText" format="string"/>
+        <attr name="suffix" format="string"/>
+        <attr name="prefix" format="string"/>
+        <attr name="isClockwise" fomat="boolean"/>
+        <attr name="startingPoint" fomat="enum">
+            <enum name="top" value="270" />
+            <enum name="bottom" value="90" />
+            <enum name="right" value="0" />
+            <enum name="left" value="180" />
+        </attr>
+    </declare-styleable>
+</resources>

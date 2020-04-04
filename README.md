@@ -7,7 +7,7 @@ A simple library for creating circular progress bar timer view for Android.
 
 <img src='screenshot/a.gif' height=480 width=240 />                    <img src='screenshot/b.gif' height=480 width=240 />
 <img src='screenshot/c.gif' height=480 width=240 />                    <img src='screenshot/d.gif' height=480 width=240 />
-<img src='screenshot/e.gif' height=480 width=240 />
+<img src='screenshot/e.gif' height=480 width=240 />                    <img src='screenshot/f.gif' height=480 width=240 />
 
 
 ## Installation

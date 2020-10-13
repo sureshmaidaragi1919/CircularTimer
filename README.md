@@ -12,7 +12,8 @@ A simple library for creating circular progress bar timer view for Android.
 
 ## Installation
 
-- Get it via gradle: ``` implementation 'com.github.sureshmaidaragi1919:CircularTimer:1.1' ```
+- Click the badge to get installation instructions [![](https://jitpack.io/v/Sp4Rx/CircularTimer.svg)](https://jitpack.io/#Sp4Rx/CircularTimer)
+
 ## Usage
 
 1) Add CircularTimerView to your layout

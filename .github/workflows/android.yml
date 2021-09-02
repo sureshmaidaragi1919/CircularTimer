@@ -21,7 +21,7 @@ jobs:
     - name: setup gradle
       uses: gradle/gradle-build-action@v1
       with:
-        gradle-version: current
+        gradle-version: 6.9.1
     
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew

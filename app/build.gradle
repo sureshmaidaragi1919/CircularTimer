@@ -30,7 +30,7 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation project(path: ':circulartimerview')
-    implementation "androidx.core:core-ktx:1.6.0"
+    implementation "androidx.core:core-ktx:$kotlin_core_ktx"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
 repositories {

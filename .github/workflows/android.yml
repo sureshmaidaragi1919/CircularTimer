@@ -17,8 +17,8 @@ jobs:
       uses: actions/setup-java@v2
       with:
         java-version: '11'
-        distribution: 'adopt'
-        cache: gradle
+        distribution: 'temurin'
+        cache: gradle6
 
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew

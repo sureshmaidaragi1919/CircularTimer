@@ -116,7 +116,7 @@ You can modify it programmatically if you want
 
 MIT License
 
-Copyright (c) 2019 hamzaahmedkhan and uzairiqbal91
+Copyright (c) 2019 Suresh Maidaragi original from hamzaahmedkhan and uzairiqbal91
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CircularTimer.iml" filepath="$PROJECT_DIR$/CircularTimer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circulartimerview/circulartimerview.iml" filepath="$PROJECT_DIR$/circulartimerview/circulartimerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CircularTimer.iml" filepath="$PROJECT_DIR$/.idea/modules/CircularTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CircularTimer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CircularTimer.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circulartimerview/CircularTimer.circulartimerview.iml" filepath="$PROJECT_DIR$/.idea/modules/circulartimerview/CircularTimer.circulartimerview.iml" />
     </modules>
   </component>
 </project>

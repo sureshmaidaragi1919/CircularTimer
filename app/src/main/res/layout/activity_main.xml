@@ -40,8 +40,4 @@
         app:startingPoint="top"
         app:textSize="18sp"/>
 
-
-
-
-
 </LinearLayout>
